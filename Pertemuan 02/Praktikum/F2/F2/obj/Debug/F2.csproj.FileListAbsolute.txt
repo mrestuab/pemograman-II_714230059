@@ -1,0 +1,7 @@
+D:\restu\SEMESTER 3\PBO\F2\F2\bin\Debug\F2.exe.config
+D:\restu\SEMESTER 3\PBO\F2\F2\bin\Debug\F2.exe
+D:\restu\SEMESTER 3\PBO\F2\F2\bin\Debug\F2.pdb
+D:\restu\SEMESTER 3\PBO\F2\F2\obj\Debug\F2.csproj.AssemblyReference.cache
+D:\restu\SEMESTER 3\PBO\F2\F2\obj\Debug\F2.csproj.CoreCompileInputs.cache
+D:\restu\SEMESTER 3\PBO\F2\F2\obj\Debug\F2.exe
+D:\restu\SEMESTER 3\PBO\F2\F2\obj\Debug\F2.pdb
