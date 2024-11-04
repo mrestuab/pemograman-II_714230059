@@ -1,0 +1,7 @@
+C:\Users\SANDRA\source\repos\P4_1_714230059\P4_1_714230059\obj\Debug\P4_1_714230059.csproj.AssemblyReference.cache
+C:\Users\SANDRA\source\repos\P4_1_714230059\P4_1_714230059\obj\Debug\P4_1_714230059.csproj.CoreCompileInputs.cache
+C:\Users\SANDRA\source\repos\P4_1_714230059\P4_1_714230059\bin\Debug\P4_1_714230059.exe.config
+C:\Users\SANDRA\source\repos\P4_1_714230059\P4_1_714230059\bin\Debug\P4_1_714230059.exe
+C:\Users\SANDRA\source\repos\P4_1_714230059\P4_1_714230059\bin\Debug\P4_1_714230059.pdb
+C:\Users\SANDRA\source\repos\P4_1_714230059\P4_1_714230059\obj\Debug\P4_1_714230059.exe
+C:\Users\SANDRA\source\repos\P4_1_714230059\P4_1_714230059\obj\Debug\P4_1_714230059.pdb

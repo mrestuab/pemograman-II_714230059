@@ -1,0 +1,6 @@
+14. mengapa error karena saat di file pruduct_714230059.cs di line 11 memakai protected bukan public sedangkan protected cuman bisa dijalankan dengan class itu sendiri.
+19. Method yang bersifat public dalam class Product memungkinkan variabel yang awalnya bersifat protected dapat diakses oleh class turunannya.
+24. Program menampilkan “DVD” karena objek myProduct menetapkan variabel myType dengan nilai baru "DVD". Program membaca kode dari atas ke bawah, sehingga nilai yang telah diubah tersebut muncul lebih dahulu.
+8. Variabel type dan title tidak muncul karena nilainya tidak diteruskan ke induk class. Class Book hanya mengatur pageCount tanpa memberitahu induk tentang type dan title. Dalam OOP, ini dikenal sebagai constructor chaining, di mana constructor class turunan harus memanggil constructor induk untuk memastikan semua data terinisialisasi.
+12. Output muncul karena class Book memanggil constructor induknya, memastikan variabel myType dan myTitle yang diinisialisasi di Book dapat diteruskan ke induk. Hal ini dilakukan dengan menambahkan base() yang memuat parameter type dan title.
+19. Objek product2 diinisialisasi berbeda dari product1 karena class DVD mengatur nilai MyType dan MyTitle langsung dalam konstruktornya, tanpa memanggil konstruktor dari class induk Product.

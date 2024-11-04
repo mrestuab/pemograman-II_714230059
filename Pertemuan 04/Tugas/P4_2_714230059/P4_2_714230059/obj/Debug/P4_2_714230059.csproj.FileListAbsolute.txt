@@ -1,0 +1,7 @@
+D:\restu\SEMESTER 3\PBO\pemograman-II_714230059\Pertemuan 04\Tugas\P4_2_714230059\P4_2_714230059\bin\Debug\P4_2_714230059.exe.config
+D:\restu\SEMESTER 3\PBO\pemograman-II_714230059\Pertemuan 04\Tugas\P4_2_714230059\P4_2_714230059\bin\Debug\P4_2_714230059.exe
+D:\restu\SEMESTER 3\PBO\pemograman-II_714230059\Pertemuan 04\Tugas\P4_2_714230059\P4_2_714230059\bin\Debug\P4_2_714230059.pdb
+D:\restu\SEMESTER 3\PBO\pemograman-II_714230059\Pertemuan 04\Tugas\P4_2_714230059\P4_2_714230059\obj\Debug\P4_2_714230059.csproj.AssemblyReference.cache
+D:\restu\SEMESTER 3\PBO\pemograman-II_714230059\Pertemuan 04\Tugas\P4_2_714230059\P4_2_714230059\obj\Debug\P4_2_714230059.csproj.CoreCompileInputs.cache
+D:\restu\SEMESTER 3\PBO\pemograman-II_714230059\Pertemuan 04\Tugas\P4_2_714230059\P4_2_714230059\obj\Debug\P4_2_714230059.exe
+D:\restu\SEMESTER 3\PBO\pemograman-II_714230059\Pertemuan 04\Tugas\P4_2_714230059\P4_2_714230059\obj\Debug\P4_2_714230059.pdb
