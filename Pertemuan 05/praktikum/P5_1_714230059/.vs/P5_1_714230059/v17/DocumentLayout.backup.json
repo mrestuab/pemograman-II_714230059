@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\restu\\SEMESTER 3\\PBO\\pemograman-II_714230059\\Pertemuan 05\\praktikum\\P5_1_714230059\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92C0629F-94A6-4D89-91FF-7E727B30266B}|P5_1_714230059\\P5_1_714230059.csproj|d:\\restu\\semester 3\\pbo\\pemograman-ii_714230059\\pertemuan 05\\praktikum\\p5_1_714230059\\p5_1_714230059\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C0629F-94A6-4D89-91FF-7E727B30266B}|P5_1_714230059\\P5_1_714230059.csproj|solutionrelative:p5_1_714230059\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C0629F-94A6-4D89-91FF-7E727B30266B}|P5_1_714230059\\P5_1_714230059.csproj|d:\\restu\\semester 3\\pbo\\pemograman-ii_714230059\\pertemuan 05\\praktikum\\p5_1_714230059\\p5_1_714230059\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92C0629F-94A6-4D89-91FF-7E727B30266B}|P5_1_714230059\\P5_1_714230059.csproj|solutionrelative:p5_1_714230059\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C0629F-94A6-4D89-91FF-7E727B30266B}|P5_1_714230059\\P5_1_714230059.csproj|d:\\restu\\semester 3\\pbo\\pemograman-ii_714230059\\pertemuan 05\\praktikum\\p5_1_714230059\\p5_1_714230059\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C0629F-94A6-4D89-91FF-7E727B30266B}|P5_1_714230059\\P5_1_714230059.csproj|solutionrelative:p5_1_714230059\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92C0629F-94A6-4D89-91FF-7E727B30266B}|P5_1_714230059\\P5_1_714230059.csproj|d:\\restu\\semester 3\\pbo\\pemograman-ii_714230059\\pertemuan 05\\praktikum\\p5_1_714230059\\p5_1_714230059\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92C0629F-94A6-4D89-91FF-7E727B30266B}|P5_1_714230059\\P5_1_714230059.csproj|solutionrelative:p5_1_714230059\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\restu\\SEMESTER 3\\PBO\\pemograman-II_714230059\\Pertemuan 05\\praktikum\\P5_1_714230059\\P5_1_714230059\\Program.cs",
+              "RelativeDocumentMoniker": "P5_1_714230059\\Program.cs",
+              "ToolTip": "D:\\restu\\SEMESTER 3\\PBO\\pemograman-II_714230059\\Pertemuan 05\\praktikum\\P5_1_714230059\\P5_1_714230059\\Program.cs",
+              "RelativeToolTip": "P5_1_714230059\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:00:22.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\restu\\SEMESTER 3\\PBO\\pemograman-II_714230059\\Pertemuan 05\\praktikum\\P5_1_714230059\\P5_1_714230059\\Form1.cs",
+              "RelativeDocumentMoniker": "P5_1_714230059\\Form1.cs",
+              "ToolTip": "D:\\restu\\SEMESTER 3\\PBO\\pemograman-II_714230059\\Pertemuan 05\\praktikum\\P5_1_714230059\\P5_1_714230059\\Form1.cs [Design]",
+              "RelativeToolTip": "P5_1_714230059\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:34:22.573Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\restu\\SEMESTER 3\\PBO\\pemograman-II_714230059\\Pertemuan 05\\praktikum\\P5_1_714230059\\P5_1_714230059\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "P5_1_714230059\\Form1.Designer.cs",
+              "ToolTip": "D:\\restu\\SEMESTER 3\\PBO\\pemograman-II_714230059\\Pertemuan 05\\praktikum\\P5_1_714230059\\P5_1_714230059\\Form1.Designer.cs",
+              "RelativeToolTip": "P5_1_714230059\\Form1.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAWwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:34:14.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\restu\\SEMESTER 3\\PBO\\pemograman-II_714230059\\Pertemuan 05\\praktikum\\P5_1_714230059\\P5_1_714230059\\Form1.cs",
+              "RelativeDocumentMoniker": "P5_1_714230059\\Form1.cs",
+              "ToolTip": "D:\\restu\\SEMESTER 3\\PBO\\pemograman-II_714230059\\Pertemuan 05\\praktikum\\P5_1_714230059\\P5_1_714230059\\Form1.cs",
+              "RelativeToolTip": "P5_1_714230059\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAD4vx8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:33:39.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
