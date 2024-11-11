@@ -15,7 +15,10 @@ namespace P5_4_714230059
         public Form1()
         {
             InitializeComponent();
-            this.Load += new EventHandler(comboBox1_SelectedIndexChanged);
+            comboBox1.Items.Clear();
+            comboBox1.Items.Add("Laki-laki");
+            comboBox1.Items.Add("Perempuan");
+            comboBox1.Text = "--Pilih Jenis Kelamin--";
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -69,11 +72,7 @@ namespace P5_4_714230059
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            comboBox1.Items.Clear();
-            comboBox1.Items.Add("Laki-laki");
-            comboBox1.Items.Add("Perempuan");
-            comboBox1.Text = "--Pilih Jenis Kelamin--";
+        { 
         }
     }
 }
